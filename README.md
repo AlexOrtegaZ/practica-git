@@ -1,3 +1,3 @@
 # practica-git
 
-Para correr esto
+> Otro comentario
