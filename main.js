@@ -7,3 +7,7 @@ function x() {
 function masDescriptivo() {
     
 }
+
+function otraFunction(a, b) {
+    return a + b;
+}
