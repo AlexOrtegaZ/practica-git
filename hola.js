@@ -1,2 +1,3 @@
-hola
-adio
+{
+  ayuda: 0
+}
