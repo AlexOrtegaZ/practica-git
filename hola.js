@@ -1,3 +1,4 @@
 {
-  ayuda: 0
+  "ayuda"= "0",
+  "otrocambio"= "2",
 }
